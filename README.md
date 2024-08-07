@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Lorang-cmd
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning sveltekit, prismic, node.js.
+- 💞️ I’m looking to collaborate on websites
+- 📫 How to reach me loranghjemmesider@gmail.com
